@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Source Code Link](https://github.com/Aayush895/QR-Code-Component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Hosted Site](https://aayush895.github.io/QR-Code-Component/)
 
 ## My process
 
@@ -35,7 +35,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-This project from frontend mentor was a fairly simple project which used the basic concepts of HTML and CSS. This project simply tested my basic understanding of HTML and CSS.
+This project from frontend mentor was a fairly simple project that used the basic concepts of HTML and CSS. This project simply tested my basic understanding of HTML and CSS.
 
 ## Author
 
@@ -45,4 +45,4 @@ This project from frontend mentor was a fairly simple project which used the bas
 
 ## Acknowledgments
 
-I would like to thank frontend mentor for providing an amazing platform where beginners like me can come and refine our skills on front-end web devlopment and also for providing such an open community where we can get feedback from other folks who are experienced in this field.
+I would like to thank frontend mentor for providing an amazing platform where beginners like me can come and refine our skills in front-end web development and also for providing such an open community where we can get feedback from other folks who are experienced in this field.
